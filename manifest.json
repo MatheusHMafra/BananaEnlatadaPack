@@ -1,7 +1,7 @@
 {
     "name": "Banana_Enlatada_Pack",
     "version_number": "0.1",
-    "website_url": "https://github.com/MatheusHMafra/Banana_Enlatada_Pack",
+    "website_url": "https://github.com/MatheusHMafra/BananaEnlatadaPack",
     "description": "Contains 20 mods (Newest version: 0.1)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
