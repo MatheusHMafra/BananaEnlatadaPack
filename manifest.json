@@ -1,0 +1,28 @@
+{
+    "name": "Banana_Enlatada_Pack",
+    "version_number": "0.1",
+    "website_url": "https://github.com/MatheusHMafra/Banana_Enlatada_Pack",
+    "description": "Contains 20 mods (Newest version: 0.1)",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "RugbugRedfern-MyceliumNetworking-1.0.12",
+        "loaforc-Flashcard-0.3.3",
+        "IcyRelic-Nameplates-1.0.1",
+        "Hamunii-DetourContext_Dispose_Fix-1.0.3",
+        "Hamunii-AutoHookGenPatcher-1.0.4",
+        "JustMeForNow-MoReOxygen-1.0.1",
+        "Azumatt-Official_BepInExConfigurationManager-18.3.0",
+        "RamuneNeptune-VolumeBooster-1.0.10",
+        "funfoxrr-BetterSpectate-1.0.1",
+        "Playboi-EmoteWheel-1.0.0",
+        "Tim_Shaw-Goofy_Ahh_Blender-0.1.0",
+        "Computery-Toggle_Mute-1.0.0",
+        "MaxWasUnavailable-Virality-1.3.0",
+        "GamingFrame-More_Comments-1.2.1",
+        "RamuneNeptune-MakeMeRagdoll-1.1.2",
+        "bananaturtlesandwich-SuitColours-1.0.2",
+        "TrioGhost-MoreSpookerVideo-1.0.7",
+        "hyydsz-ShopUtils-1.0.8",
+        "Electric131-CameraLocator-1.0.1"
+    ]
+}
