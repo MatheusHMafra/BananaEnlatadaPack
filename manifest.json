@@ -1,8 +1,8 @@
 {
     "name": "Banana_Enlatada_Pack",
-    "version_number": "0.1.0",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/MatheusHMafra/BananaEnlatadaPack",
-    "description": "Contains 20 mods (Newest version: 0.1.0)",
+    "description": "Contains 21 mods (Newest version: 0.1.1)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "RugbugRedfern-MyceliumNetworking-1.0.12",
@@ -23,6 +23,7 @@
         "bananaturtlesandwich-SuitColours-1.0.2",
         "TrioGhost-MoreSpookerVideo-1.0.7",
         "hyydsz-ShopUtils-1.0.8",
-        "Electric131-CameraLocator-1.0.1"
+        "Electric131-CameraLocator-1.0.1",
+        "Froj-Diving_Bell_Tweaks-1.1.1"
     ]
 }
