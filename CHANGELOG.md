@@ -3,6 +3,11 @@
 
 ---
 
+## 0.1.3
+
+- Removed 2 mods
+- Added 3 mods
+
 ## 0.1.2
 
 - Removed 2 mods that were causing issues
