@@ -1,18 +1,17 @@
 {
     "name": "Banana_Enlatada_Pack",
-    "version_number": "0.1.3",
+    "version_number": "0.1.4",
     "website_url": "https://github.com/MatheusHMafra/BananaEnlatadaPack",
-    "description": "Contains 20 mods (Newest version: 0.1.3)",
+    "description": "Contains 23 mods (Newest version: 0.1.4)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "RugbugRedfern-MyceliumNetworking-1.0.13",
+        "RugbugRedfern-MyceliumNetworking-1.0.14",
         "loaforc-Flashcard-0.3.3",
         "IcyRelic-Nameplates-1.0.3",
         "Hamunii-DetourContext_Dispose_Fix-1.0.3",
         "Hamunii-AutoHookGenPatcher-1.0.4",
         "JustMeForNow-MoReOxygen-1.0.1",
         "Azumatt-Official_BepInExConfigurationManager-18.3.0",
-        "Playboi-EmoteWheel-1.0.0",
         "GamingFrame-More_Comments-1.2.1",
         "RamuneNeptune-MakeMeRagdoll-1.1.2",
         "bananaturtlesandwich-SuitColours-1.0.2",
@@ -23,6 +22,10 @@
         "nickklmao-ExtraInventorySlot-1.0.3",
         "MaxWasUnavailable-Virality-1.4.0",
         "CommanderCat101-ContentSettings-1.2.2",
-        "ViViKo-GadgetTweaks-1.2.0"
+        "ViViKo-GadgetTweaks-1.2.0",
+        "MegaPiggy-CWEnumUtils-1.0.3",
+        "ViViKo-ShopTweaks-1.1.2",
+        "DAa-CWMissing-2.0.8",
+        "Staller-ModifyMonsterSpawner-1.0.0"
     ]
 }
