@@ -3,6 +3,12 @@
 
 ---
 
+## 0.1.5
+
+- Removed 1 mod
+- Added 1 mod
+- Updated mods
+
 ## 0.1.4
 
 - Removed 1 mod
